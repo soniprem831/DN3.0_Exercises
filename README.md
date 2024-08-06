@@ -1,2 +1,2 @@
 # DN3.0_Exercises
-week 1 assignment-Dsa and pattern
+Java-Fse all exercise will be posted here
